@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\GAMING PC\\source\\repos\\Proyecto_Final\\",
+  "WorkspaceRootPath": "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8D2F6F1-5FB2-428A-BDFE-5C83DCE646BA}|Proyecto_Final\\Proyecto_Final.csproj|c:\\users\\gaming pc\\source\\repos\\proyecto_final\\proyecto_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8D2F6F1-5FB2-428A-BDFE-5C83DCE646BA}|Proyecto_Final\\Proyecto_Final.csproj|c:\\users\\moise\\desktop\\clonacion\\proyecto_final\\proyecto_final\\torredefenciva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D2F6F1-5FB2-428A-BDFE-5C83DCE646BA}|Proyecto_Final\\Proyecto_Final.csproj|solutionrelative:proyecto_final\\torredefenciva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D2F6F1-5FB2-428A-BDFE-5C83DCE646BA}|Proyecto_Final\\Proyecto_Final.csproj|c:\\users\\moise\\desktop\\clonacion\\proyecto_final\\proyecto_final\\ovni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D2F6F1-5FB2-428A-BDFE-5C83DCE646BA}|Proyecto_Final\\Proyecto_Final.csproj|solutionrelative:proyecto_final\\ovni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D2F6F1-5FB2-428A-BDFE-5C83DCE646BA}|Proyecto_Final\\Proyecto_Final.csproj|c:\\users\\moise\\desktop\\clonacion\\proyecto_final\\proyecto_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8D2F6F1-5FB2-428A-BDFE-5C83DCE646BA}|Proyecto_Final\\Proyecto_Final.csproj|solutionrelative:proyecto_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TorreDefenciva.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\Proyecto_Final\\TorreDefenciva.cs",
+              "RelativeDocumentMoniker": "Proyecto_Final\\TorreDefenciva.cs",
+              "ToolTip": "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\Proyecto_Final\\TorreDefenciva.cs",
+              "RelativeToolTip": "Proyecto_Final\\TorreDefenciva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:48:54.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ovni.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\Proyecto_Final\\Ovni.cs",
+              "RelativeDocumentMoniker": "Proyecto_Final\\Ovni.cs",
+              "ToolTip": "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\Proyecto_Final\\Ovni.cs",
+              "RelativeToolTip": "Proyecto_Final\\Ovni.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:44:43.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\Proyecto_Final\\Proyecto_Final\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\Proyecto_Final\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto_Final\\Program.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\Proyecto_Final\\Proyecto_Final\\Program.cs",
+              "ToolTip": "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\Proyecto_Final\\Program.cs",
               "RelativeToolTip": "Proyecto_Final\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T04:29:45.544Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

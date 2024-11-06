@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GAMING PC\\source\\repos\\Proyecto_Final\\Proyecto_Final\\Proyecto_Final.csproj": {}
+    "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\Proyecto_Final\\Proyecto_Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GAMING PC\\source\\repos\\Proyecto_Final\\Proyecto_Final\\Proyecto_Final.csproj": {
+    "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\Proyecto_Final\\Proyecto_Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GAMING PC\\source\\repos\\Proyecto_Final\\Proyecto_Final\\Proyecto_Final.csproj",
+        "projectUniqueName": "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\Proyecto_Final\\Proyecto_Final.csproj",
         "projectName": "Proyecto_Final",
-        "projectPath": "C:\\Users\\GAMING PC\\source\\repos\\Proyecto_Final\\Proyecto_Final\\Proyecto_Final.csproj",
-        "packagesPath": "C:\\Users\\GAMING PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GAMING PC\\source\\repos\\Proyecto_Final\\Proyecto_Final\\obj\\",
+        "projectPath": "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\Proyecto_Final\\Proyecto_Final.csproj",
+        "packagesPath": "C:\\Users\\moise\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moise\\Desktop\\clonacion\\Proyecto_Final\\Proyecto_Final\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GAMING PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moise\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
